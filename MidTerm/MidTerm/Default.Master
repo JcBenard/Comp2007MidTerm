@@ -22,13 +22,6 @@
 </head>
 <body>
 
-    <!-- HEADER -->
-    <%--<footer>
-        <nav class="navbar navbar-default navbar-fixed-top">
-            <h1>Course Catalog</h1>
-        </nav>
-    </footer>--%>
-
     <!--content page section-->
     <div class="content">
     <form id="form1" runat="server">

@@ -3,6 +3,5 @@
     <meta http-equiv="refresh" content="0; url=/Courses">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
-    <a href="/Courses">Corusesu</a>
-    ghjghkhjlhjklhklhjklhklhkl
+    <a href="/Courses">Courses</a>
 </asp:Content>
